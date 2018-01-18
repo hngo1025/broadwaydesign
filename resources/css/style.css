@@ -21,7 +21,7 @@ h3 {
 }
 
 .nav {
-	background-image: url(./resources/images/the-flatiron-building.png);
+	background-image: url(../images/the-flatiron-building.png);
 }
 
 .nav a {
@@ -31,7 +31,7 @@ h3 {
 
 .newyork h2 {
 	font-size: 23px;
-	background-image: url(./resources/images/the-flatiron-building.png);
+	background-image: url(../images/the-flatiron-building.png);
 	color: white;
 }
 
